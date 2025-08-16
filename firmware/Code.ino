@@ -3,8 +3,8 @@
 #include <UniversalTelegramBot.h>
 #include <ArduinoJson.h>
 
-#define BOTtoken      "7219264499:AAEi3NSo-LZ6cbxPIskxrtShkc7YTyxyXyo"
-#define CHAT_ID       "1267581166"
+#define BOTtoken      "123456789:AAE-xxxxx"
+#define CHAT_ID       "123456789"
 #define GAS_DO_PIN    34
 #define FLAME_DO_PIN  35
 #define LED_PIN       2
@@ -12,8 +12,8 @@
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
 
-char SSID[] = "G";
-char PASS[] = "1234567gg";
+char SSID[] = "myWiFi";
+char PASS[] = "123456789";
 
 bool lastGasDetection         = HIGH;
 bool lastFlameDetection       = HIGH;
