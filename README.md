@@ -1,4 +1,4 @@
-# 🖧 Sistem Monitoring Kebakaran dan Asap Berbasis ESP32 dengan Notifikasi Telegram
+# 🖧 Sistem Monitoring Kebakaran dan Asap dengan Notifikasi Telegram Berbasis ESP32
 
 ## Deskripsi proyek
 Proyek ini adalah sistem IoT yang dirancang untuk mendeteksi keberadaan api dan asap di lingkungan sekitar secara real-time menggunakan mikrokontroler ESP32. Sistem ini memanfaatkan sensor flame dan sensor asap (MQ-2) untuk mendeteksi kebakaran secara dini. Ketika terdeteksi adanya api atau asap dalam ambang batas tertentu, sistem akan secara otomatis mengirimkan peringatan melalui Telegram bot kepada pengguna.
@@ -30,7 +30,7 @@ Proyek ini adalah sistem IoT yang dirancang untuk mendeteksi keberadaan api dan 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/muhammadghalib/Sistem-Monitoring-Kebakaran-dan-Asap-Berbasis-ESP32-dengan-Notifikasi-Telegram.git
+git clone https://github.com/muhammadghalib/Sistem-Monitoring-Kebakaran-dan-Asap-dengan-Notifikasi-Telegram-Berbasis-ESP32.git
 ```
 
 ### 2. Install Library
