@@ -63,7 +63,7 @@ Buka file txt yang ada di direktori `arduino-libraries/` pada repository ini dan
 ### 5. Menyiapkan dan Mengunggah Sketch
 1. Buka file berikut di Arduino IDE atau editor yang Anda gunakan:  
     ```bash
-    esp32_unit_1_radio_link_simulator_unit.ino
+    Code.ino
     ```
 2. Sesuaikan konfigurasi berikut pada baris kode:
     - **Baris ke-6**: Masukkan Bot Token dari langkah ke-3, contoh :
@@ -85,9 +85,10 @@ Buka file txt yang ada di direktori `arduino-libraries/` pada repository ini dan
 3. Setelah semua konfigurasi selesai, sambungkan ESP32 ke komputer dan unggah sketch ke perangkat.
 
 ### 6. Tampilan Serial Monitor
+![](./docs/Tampilan_Serial_Monitor.jpg)
 
 ### 7. Tampilan Telegram
-
+![](./docs/Tampilan_Telegram.jpg)
 
 
 ## 💡 STAY CURIOUS
